@@ -1,13 +1,17 @@
 const express = require("express");
 
 // dotenv
+
 require("dotenv").config();
+
 // Mongo Data Base
+
 const mongoose = require("mongoose");
 
 const workoutRoutes = require("./routes/Workout");
 
 // Express App
+
 const app = express();
 
 // Middleware
@@ -37,4 +41,3 @@ mongoose
   .catch((error) => {
     console.log(error);
   });
-// Request

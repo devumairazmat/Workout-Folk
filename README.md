@@ -1,3 +1,4 @@
 # Workout-Folk
 
-MERN Project
+MERN Stack Project
+

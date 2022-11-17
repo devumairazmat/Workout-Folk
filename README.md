@@ -1,4 +1,4 @@
 # Workout-Folk
 
-MERN Stack Project
+MERN Stack Project Gym
 
